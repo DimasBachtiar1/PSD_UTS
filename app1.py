@@ -4,17 +4,17 @@ import numpy as np
 import pandas as pd
 import pickle
 # import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.decomposition import PCA
-from sklearn.model_selection import GridSearchCV
+# from sklearn.model_selection import train_test_split
+# from sklearn.preprocessing import StandardScaler, MinMaxScaler
+# from sklearn.neighbors import KNeighborsClassifier
+# from sklearn.metrics import accuracy_score
+# from sklearn.decomposition import PCA
+# from sklearn.model_selection import GridSearchCV
 import streamlit as st
 from streamlit_option_menu import option_menu
-from IPython.display import Image
-import IPython
-import seaborn as sns
+# from IPython.display import Image
+# import IPython
+# import seaborn as sns
 import scipy.stats
 import os
 import librosa
